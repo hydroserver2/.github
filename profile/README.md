@@ -4,4 +4,4 @@ HydroServer2 builds on prior efforts and systems established by the Consortium o
 
 ## Funding and Acknowledgements
 
-This work is supported by the National Oceanic and Atmospheric Administration (NOAA) through the Cooperative Institute for Research to Operations in Hydrology (CIROH).
+Funding for this project was provided by the National Oceanic & Atmospheric Administration (NOAA), awarded to the Cooperative Institute for Research to Operations in Hydrology (CIROH) through the NOAA Cooperative Agreement with The University of Alabama (NA22NWS4320003).
