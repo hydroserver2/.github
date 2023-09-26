@@ -1,6 +1,9 @@
-HydroServer2 is a software cyberinfrastructure platform created to support collection, management, and sharing of time series of observations from hydrologic and evironmental monitoring sites. Under development at the Utah Water Research Laboratory at Utah State University, HydroServer2 is designed to be an open platform that enables research groups, agencies, organizations, and practitioners to more easily collect and manage streaming observations from environmental sensors.
+# HydroServer
 
-HydroServer2 builds on prior efforts and systems established by Utah State University and the Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI) [Hydrologic Information System (HIS) project](http://his.cuahsi.org), including the original HydroServer software stack that was created by that project (HydroServer1). The legacy HydroServer (HydroServer1) software is [archived by CUAHSI](https://github.com/CUAHSI/HydroServer). 
+HydroServer is a software cyberinfrastructure platform created to support collection, management, and sharing of time series of observations from hydrologic and evironmental monitoring sites. Under development at the [Utah Water Research Laboratory](https://uwrl.usu.edu/) at [Utah State University](https://www.usu.edu/), HydroServer is designed to be an open source platform that enables research groups, agencies, organizations, and practitioners to more easily collect and manage streaming observations from environmental sensors.
+
+* Post a HydroServer related issue in the [HydroServer Issue Tracker](https://github.com/hydroserver2/hydroserver/issues)
+* Access HydroServer [documentation](https://hydroserver2.github.io/hydroserver/) to learn about how to deploy or use HydroServer
 
 ## Funding and Acknowledgements
 
